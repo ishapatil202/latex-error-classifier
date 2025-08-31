@@ -1,1 +1,5 @@
 best_mathbert_model.pt
+*.pt
+*.pth
+*.bin
+*.ckpt
